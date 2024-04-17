@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "320273606642",
+    "firebase_url": "https://reytaxi-77fd7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "reytaxi-77fd7",
+    "storage_bucket": "reytaxi-77fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320273606642:android:31bee8709429ce445e2d6b",
+        "android_client_info": {
+          "package_name": "com.Andrei.Rey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgOUJRxyK3EF005wguhMbp3hOkaXQ6HY4"
+        },
+        {
+          "current_key": "AIzaSyCgOUJRxyK3EF005wguhMbp3hOkaXQ6HY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320273606642:android:5c75c326c5d453655e2d6b",
+        "android_client_info": {
+          "package_name": "com.example.rey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgOUJRxyK3EF005wguhMbp3hOkaXQ6HY4"
+        },
+        {
+          "current_key": "AIzaSyCgOUJRxyK3EF005wguhMbp3hOkaXQ6HY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
